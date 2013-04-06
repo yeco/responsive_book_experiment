@@ -1,4 +1,4 @@
-responsive_book_experiment
+Responsive Book
 ==========================
 
-Tiny book off-canvas layout experiment for books
+Tiny experiment for book off-canvas layout
